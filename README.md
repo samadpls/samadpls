@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)](https://github.com/asamadsid)
 <h1 align="center">Hi, Abdul Samad Here🤍</h1>
-<h4 align="center">Python Developer👨🏼‍💻</h4>
+<h4 align="center">I am a Data Science Enthusiast👨🏼‍💻</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif"  > 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asamadsid&label=Profile%20views&color=0e75b6&style=flat" alt="asamadsid" /> </p>
@@ -28,4 +28,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asamadsid&show_icons=true&locale=en&layout=compact" alt="asamadsid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asamadsid&" alt="asamadsid" /></p>
-
