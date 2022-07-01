@@ -30,4 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asamadsid&" alt="asamadsid" /></p>
 <p align="center"> 
   <img src="https://github.com/asamadsid/asamadsid/blob/main/github-user-contribution.svg" alt="snake"></center>
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 </p>
