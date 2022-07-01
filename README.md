@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)](https://github.com/asamadsid)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <h1 align="center">Hi, Abdul Samad Here🤍</h1>
 <h4 align="center">I am a Data Science Enthusiast👨🏼‍💻</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif"  > 
@@ -32,3 +32,4 @@
 <p align="center"> 
   <img src="https://github.com/asamadsid/asamadsid/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
