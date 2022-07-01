@@ -32,3 +32,4 @@
 <p align="center"> 
   <img src="https://github.com/asamadsid/asamadsid/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
+![GitHub Snake dark]("https://github.com/asamadsid/asamadsid/blob/main/github-user-contribution.svg")(github-snake-dark.svg#gh-dark-mode-only)
