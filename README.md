@@ -28,8 +28,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samadpls&show_icons=true&locale=en&layout=compact" alt="samadpls" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadpls&" alt="samadpls" /></p>
-<p align="center"> 
-  <img src="https://github.com/asamadsid/samadpls/blob/main/github-user-contribution.svg" alt="snake"></center>
-</p>
+![snake gif](https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.gif)
 
