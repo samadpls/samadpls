@@ -20,7 +20,7 @@
 <a href="https://instagram.com/samadpls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samadpls" height="30" width="40" /></a>
 <a href="https://medium.com/@abdulsamadsid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="abdulsamadsid1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdulsamadsid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulsamadsid1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asamadsid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asamadsid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/samadpls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samadpls" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
