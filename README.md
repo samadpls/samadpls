@@ -30,4 +30,4 @@
 
 ![snake gif](https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samadpls&theme=highcontrast)](https://git.io/streak-stats)
+<img align="center" src=[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samadpls&theme=highcontrast)](https://git.io/streak-stats)/>
