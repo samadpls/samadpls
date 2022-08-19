@@ -1,4 +1,4 @@
-<img src=".github/workflows/banner.png"  width="1000" height="250">
+<img src=".github/workflows/cat.png"  width="900" height="150">
 <h1 align="center">Hi, Abdul Samad Here🤍</h1>
 <h4 align="center">I am a Data Science Enthusiast👨🏼‍💻</h4>
 <img align="right" alt="Coding" width="400" src=".github/workflows/working.gif" >
