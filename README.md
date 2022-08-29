@@ -1,8 +1,9 @@
 <img src=".github/workflows/cat.png"  width="900" height="150">
 <h1 align="center">Hi, Abdul Samad Here🤍</h1>
 <h4 align="center">I am a Data Science Enthusiast👨🏼‍💻</h4>
-<img align="right" alt="Coding" width="400" src=".github/workflows/working.gif" >
 
+[![](https://visitcount.itsvg.in/api?id=samadpls&icon=7&color=12)](https://visitcount.itsvg.in)
+<img align="right" alt="Coding" width="400" src=".github/workflows/working.gif" ><br>
 
 # About Me:✌
 🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Python, HTML & CSS, Vs Code
@@ -25,9 +26,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samadpls&icon=7&color=12)](https://visitcount.itsvg.in)
-
 
 ![snake gif](https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=samadpls&bg_color=19000e&color=fafafa&line=c8580e&point=7d7373&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
