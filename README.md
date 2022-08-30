@@ -3,6 +3,7 @@
 <h4 align="center">I am a Data Science Enthusiast👨🏼‍💻</h4>
 
 [![](https://visitcount.itsvg.in/api?id=samadpls&icon=7&color=12)](https://visitcount.itsvg.in)
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/samadpls)
 <img align="right" alt="Coding" width="400" src=".github/workflows/working.gif" ><br>
 
 # About Me:✌
