@@ -1,8 +1,8 @@
 <img src=".github/workflows/dino.gif"  width=100% height='150'>
 <h1 align="center">Hi, Abdul Samad Here🤍</h1>
-<h4 align="center">I am a Data Science Enthusiast👨🏼‍💻</h4>
+<h4 align="center">I am a Data Science Enthusiast 👨🏼‍💻</h4>
 <p align="center">  
-   Visitor count 
+   Visitor count:
    <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
  </p>
  <img align="right" alt="Coding" width="400" src=".github/workflows/working.gif" ><br>
