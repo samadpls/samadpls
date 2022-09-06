@@ -5,8 +5,8 @@
    Visitor count:
    <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
  </p>
+ 
  <img align="right" alt="Coding" width="400" src=".github/workflows/working.gif" ><br>
-
 # About Me:<img src='.github/workflows/cartoon1.gif' height=65/>
 🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Python, HTML & CSS, Vs Code
 
