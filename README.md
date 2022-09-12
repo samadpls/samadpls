@@ -10,7 +10,7 @@
  
  <img align="right" alt="Coding" width="400" src=".github/workflows/working.gif" ><br>
 # About Me:<img src='.github/workflows/cartoon1.gif' height=65/>
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Python, HTML & CSS, Vs Code
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Python, HTML & CSS, Vs Code<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
 
 
 ## <img src='.github/workflows/tech.gif' height=60/> Socials:
