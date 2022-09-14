@@ -2,7 +2,7 @@
 <img src=".github/workflows/dino.gif"  width=100% height='150'>
 
 <h1 align="center">Hi, <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Samad</a> Here🤍</h1>
-<h4 align="center">I am a Data Science Enthusiast 👨🏼‍💻</h4>
+<h4 align="center">Software Engineer to be👨🏼‍💻</h4>
 <p align="center">  
    Visitor count:
    <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
