@@ -1,5 +1,5 @@
 
-<img src=".github/workflows/dino.gif"  width=100% height='150'>
+<img src=".github/workflows/cat.png"  width=100% height='150'>
 
 <h1 align="center">Hi, <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Samad</a> Here🤍</h1>
 <h4 align="center">Software Engineer to be👨🏼‍💻</h4>
@@ -8,7 +8,7 @@
    <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
  </p>
  
- <img align="right" alt="Coding" width="400" src=".github/workflows/working.gif" ><br>
+<img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'><br>
 # About Me:<img src='.github/workflows/cartoon1.gif' height=65/>
 🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Python, HTML & CSS, Vs Code<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
 
