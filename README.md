@@ -1,7 +1,8 @@
 <img src=".github/workflows/meow.jfif"  width=100% height='170'>
 
-<h1 align="center">Hi, <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Samad</a> Here🤍</h1>
-<h4 align="center">Software Engineer to be👨🏼‍💻</h4>
+<h1 align="center">Hi, <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Samad</a> Here🤍</h1><br>
+<a href="https://github.com/samadpls/Islamic-qoutes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=435&lines=Python+%7C+Data+Analyst+%7C+CHISEL+%7CHTML+%26+CSS+%7C" alt="Typing SVG" />
+</a><br>
 <p align="center">  
    Visitor count:
    <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
