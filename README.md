@@ -6,8 +6,8 @@
    Visitor count:
    <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
  </p>
- 
-<img align='right' src='https://islamic-qoutes.herokuapp.com/' widht=100 height=300 alt='samadpls/islamic-qoutes'><br>
+ <a href='https://github.com/samadpls/Islamic-qoutes'>
+<img align='right' src='https://islamic-qoutes.herokuapp.com/' widht=100 height=300 alt='samadpls/islamic-qoutes'></a><br>
 # About Me:<img src='.github/workflows/cartoon1.gif' height=65/>
 🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Python, HTML & CSS, Vs Code<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
 
