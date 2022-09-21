@@ -1,15 +1,17 @@
 <img src=".github/workflows/meow.jfif"  width=100% height='170'>
 
-<h1 align="center">Hi, <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Samad</a> Here🤍</h1><br>
+<h1 align="center">Hi, <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Samad</a> Here🤍</h1>
+<div align='center'>
 <a href="https://github.com/samadpls/Islamic-qoutes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=435&lines=Python+%7C+Data+Analyst+%7C+CHISEL+%7CHTML+%26+CSS+%7C" alt="Typing SVG" />
-</a><br>
+</a></div><br>
+<div align='center'>
 <p align="center"> 
    Visitor count:
    
    <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
- </p>
+ </p></div>
  <a href='https://github.com/samadpls/Islamic-qoutes'>
-<img align='right' src='https://islamic-qoutes.herokuapp.com/' widht=100 height=300 alt='samadpls/islamic-qoutes'></a><br>
+<img align='right' src='https://islamic-qoutes.herokuapp.com/' widht=100 height=300 alt='samadpls/islamic-qoutes'></a>
 
 # About Me:<img src='.github/workflows/cartoon1.gif' height=65/>
 🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Python, HTML & CSS, Vs Code<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
@@ -42,13 +44,17 @@
 ## 🏆 GitHub Trophiesg
 <img src='https://github-profile-trophy.vercel.app/?username=samadpls&theme=radical&no-frame=true&no-bg=true&margin-w=4' width=75%/>
 
-### ✍️ Random Dev Quote
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/>
+
+<div align='center'>
+<h3> ✍️ Random Dev Quote </h3>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
 
 ---
+<div align='center'>
+<img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
+</div>
 
-![snake gif](https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=samadpls&bg_color=19000e&color=fafafa&line=c8580e&point=7d7373&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![samadpls's github activity graph](https://activity-graph.herokuapp.com/graph?username=samadpls&bg_color=19000e&color=fafafa&line=c8580e&point=7d7373&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src='.github/workflows/thanks.svg'/>
 
