@@ -47,6 +47,8 @@
 <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=samadpls&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact' width=33% />
 </p><br>
 
+---
+
 ## 🏆 GitHub Trophies
 <div align='center'>
 <img src='https://github-profile-trophy.vercel.app/?username=samadpls&theme=radical&no-frame=true&no-bg=true&margin-w=4' width=75%/>
@@ -62,6 +64,7 @@
 <div align='center'>
 <img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
 </div>
+
 
 [![samadpls's github activity graph](https://activity-graph.herokuapp.com/graph?username=samadpls&bg_color=19000e&color=fafafa&line=c8580e&point=7d7373&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
