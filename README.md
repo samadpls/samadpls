@@ -28,14 +28,9 @@
 <p align="left">
 <a href="https://twitter.com/samadpls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samadpls" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samadpls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samadpls" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/samadpls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samadpls" height="30" width="40" /></a>
-<a href="https://kaggle.com/samadpls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samadpls" height="30" width="40" /></a>
 <a href="https://instagram.com/samadpls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samadpls" height="30" width="40" /></a>
 <a href="https://medium.com/@samadpls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulsamadsid1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdulsamadsid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulsamadsid1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samadpls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samadpls" height="30" width="40" /></a>
-<a href="https://discord.gg/samadpls#1921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samadpls#1921" height="30" width="40" /></a>
-</p> </div>
+ </p></div>
 
 ## <img src='.github/workflows/tech.gif' height=60/> Tech Stack:
 <div align='center'>
@@ -46,27 +41,26 @@
 
 |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
 |---|---|---|
-|<img src='https://github-readme-stats.vercel.app/api?username=samadpls&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false' width=100%/>|<img  src='https://github-readme-streak-stats.herokuapp.com/?user=samadpls&theme=great-gatsby&hide_border=true' width=100% /> |<img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=samadpls&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact' width=100% />|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadpls&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com?user=samadpls&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samadpls&theme=gruvbox)|
 
 
 ---
-
-## 🏆 GitHub Trophies
 <div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=samadpls&theme=radical&no-frame=true&no-bg=true&margin-w=4' width=75%/>
-<div>
+<img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
+</div>
+
 
 <div align='center'>
-<h3> ✍️ Dev Quote </h3>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
 
 ---
 <img src='.github/workflows/thanks.svg'/>
 
-<div align='center'>
-<img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
-</div>
 
+## 🏆 GitHub Trophies
+<div align='center'>
+<img src='https://github-profile-trophy.vercel.app/?username=samadpls&theme=radical&no-frame=true&no-bg=true&margin-w=4' width=75%/>
+<div>
 
 [![samadpls's github activity graph](https://activity-graph.herokuapp.com/graph?username=samadpls&bg_color=19000e&color=fafafa&line=c8580e&point=7d7373&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
