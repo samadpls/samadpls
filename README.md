@@ -55,7 +55,7 @@
 
 ## 🏆 GitHub Trophies
 <div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=samadpls&theme=radical&no-frame=true&no-bg=true&margin-w=4' width=75%/>
+<img src='https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75%/>
 <div>
 
 ---
