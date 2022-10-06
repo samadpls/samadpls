@@ -49,19 +49,15 @@
 <img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
 </div>
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=samadpls&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align='center'>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
-
----
-<img src='.github/workflows/thanks.svg'/>
-
 
 ## 🏆 GitHub Trophies
 <div align='center'>
 <img src='https://github-profile-trophy.vercel.app/?username=samadpls&theme=radical&no-frame=true&no-bg=true&margin-w=4' width=75%/>
 <div>
 
-[![samadpls's github activity graph](https://activity-graph.herokuapp.com/graph?username=samadpls&bg_color=19000e&color=fafafa&line=c8580e&point=7d7373&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+---
+<img src='.github/workflows/thanks.svg'/>
 
