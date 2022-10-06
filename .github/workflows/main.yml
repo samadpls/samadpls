@@ -32,7 +32,7 @@ jobs:
           github_user_name: samadpls
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/ocean.gif?color_snake=orange&color_dots=#19000E,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
