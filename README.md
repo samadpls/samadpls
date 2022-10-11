@@ -17,7 +17,7 @@
    <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
  </p></div>
  <a href='https://github.com/samadpls/Islamic-qoutes'>
-<img align='right' src='https://islamic-qoutes.herokuapp.com/' widht=100 height=300 alt='samadpls/islamic-qoutes'></a>
+<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=300 alt='samadpls/islamic-qoutes'></a>
 
 # About Me:<img src='.github/workflows/cartoon1.gif' height=65/>
 
