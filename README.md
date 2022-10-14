@@ -44,7 +44,7 @@
 
 |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
 |---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadpls&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com?user=samadpls&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samadpls&theme=gruvbox)|
+|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadpls&theme=gruvbox)](https://github.com/samadpls/)|[![GitHub Streak](https://streak-stats.demolab.com?user=samadpls&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/samadpls/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samadpls&theme=gruvbox)](https://github.com/samadpls/)|
 
 
 ---
