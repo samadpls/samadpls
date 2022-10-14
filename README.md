@@ -48,9 +48,10 @@
 
 
 ---
+<a href='https://github.com/samadpls/'>
 <div align='center'>
 <img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
-</div>
+</div></a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=samadpls&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align='center'>
