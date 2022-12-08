@@ -17,7 +17,7 @@
    <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
  </p></div>
 <a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=200 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/gif2.gif' widht=100 height=200 alt='samadpls/Programming-Gifs'></a>
 
 # <img src='.github/workflows/flyingcat.gif' height=65/>  About Me:
 
@@ -52,7 +52,7 @@
 <img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
 </div></a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=samadpls&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samadpls&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align='center'>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
 
