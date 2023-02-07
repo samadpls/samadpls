@@ -16,8 +16,10 @@
    
    <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
  </p></div>
+ 
+
 <a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app/' widht=100 height=200 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='samadpls/Programming-Gifs'></a>
 
 # <img src='.github/workflows/flyingcat.gif' height=65/>  About Me:
 
