@@ -1,4 +1,4 @@
-<img align="center" src=".github/workflows/head.png"  width=100%>
+<img align="center" src=".github/workflows/bg.gif"  height=350px width=100%>
 
  <a href="https://linkedin.com/in/samadpls" target="_blank">
 <p align="center">
