@@ -37,7 +37,7 @@
 
 ## <img src='.github/workflows/tech.gif' height=60/> Tech Stack:
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=git,css,html,django,flask,py,sqlite,scala,qt,bootstrap,js" />
+<img src="https://skillicons.dev/icons?i=git,css,html,django,flask,py,postman,sqlite,scala,qt,bootstrap,js" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </div>
 
