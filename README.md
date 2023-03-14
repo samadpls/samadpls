@@ -23,10 +23,16 @@
 
 # <img src='.github/workflows/flyingcat.gif' height=65/>  About Me:
 
-- Hello🤍, my name is <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Samad,👨‍💻</a> and I'm a student at UIT studying software engineering. an introvert who chose computer science so that they could work alone. But who would have guessed that I would develop a passion for programming. Python🐍 is my favourite programming language, and I love solving issues. One of the areas where I gained the most knowledge was GitHub.I'm interested in the backend-development, data science, and JavaScript. Aim to contribute to the developer community.
-------
+- 👋 Hello, I'm Abdul Samad🤍, a software engineering student at UIT. I'm an introvert who enjoys programming and learning new skills. Python is my primary language, and GitHub is my online portfolio. I'm also interested in backend development (Scala, Python) , data science and JavaScript. I like to share my knowledge with others and make them laugh with my witty jokes.
+
+
 <img align='right' src='profile-3d-contrib/profile-night-green.svg' height=200>
-🔭 I’m currently working on my Backend skills <br>🌱 I’m currently learning Scala<br>💬 Ask me about Python, HTML & CSS, Scala, Gitub and Memes<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
+
+- 🔭 I’m currently working on enhancing my backend skills
+- 🌱 I’m currently learning Scala, which is my new love
+- 💬 Ask me about Python, HTML & CSS, Scala, GitHub and anything related to programming
+------
+
 
 
 ## <img src='.github/workflows/tech.gif' height=60/> Socials:
