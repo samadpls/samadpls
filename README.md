@@ -40,7 +40,7 @@
 
 ## <img src='.github/workflows/tech.gif' height=60/> Tech Stack:
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=py,tensorflow,docker,bash,js,scala,fastapi,django,flask,selenium,html,css,bootstrap,linux,git,postman,mysql,qt,figma" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,githubactions,bash,js,scala,fastapi,django,flask,selenium,html,css,bootstrap,linux,git,postman,mysql,qt,figma" />
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>-->
 </div>
 
@@ -57,16 +57,11 @@
 <img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
 </div></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samadpls&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![samadpls's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samadpls&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/samadpls/Programming-Gifs)
 <div align='center'>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
 
 
-
-## 🏆 GitHub Trophies
-<div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75%/>
-<div>
 
 ---
 <img src='.github/workflows/thanks.svg'/>
