@@ -38,8 +38,8 @@
 <a href='https://github.com/samadpls/'>
 <div align='center'>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg">
-<img  src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake-dark.svg">
+<img  src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake-dark.svg'/>
 </picture>
 </div></a>
 
