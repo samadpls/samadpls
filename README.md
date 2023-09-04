@@ -5,17 +5,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Abdul%20Samad%20Here🤍&fontSize=30&height=120&width=100%&section=header"/>
 </p></a>
 
-![GitHub Account Ranking in Pakistan](https://user-badge.committers.top/pakistan/samadpls.svg)
-
 <div align='center'>
 <a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=Python+%7C+MLOps+%7C+Backend-Developer+%7C" alt="Typing SVG" />
 </a></div><br>
-<div align='center'>
-<p align="center"> 
-   Visitor count:
-   
-   <img src="https://profile-counter.glitch.me/samadpls/count.svg" align="center"/> 
- </p></div>
+
+
+<p >
+  <img src="https://user-badge.committers.top/pakistan/samadpls.svg" alt="GitHub Account Ranking in Pakistan">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <strong>Visitor count:</strong>
+  <img src="https://profile-counter.glitch.me/samadpls/count.svg"/>
+</p>
  
 
 <a href='https://github.com/samadpls/Programing-Gifs'>
@@ -30,21 +30,15 @@
 
 ------
 
-
-
-## <img src='.github/workflows/tech.gif' height=60/> Socials:
-<div>
- <a href="https://www.linkedin.com/in/samadpls" ><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
-<!--<a href="abdulsamadsid1@gmail.com"><img alt="samadpls gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>-->
-<a href="https://twitter.com/samadpls" target="blank"><img  src="https://skillicons.dev/icons?i=twitter" alt="samadpls" /></a></div>
-
 ## <img src='.github/workflows/tech.gif' height=60/> Tech Stack:
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,githubactions,bash,js,scala,fastapi,django,flask,selenium,html,css,bootstrap,linux,git,postman,mysql,qt,figma" />
-<!--<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>-->
 </div>
 
-
+<a href='https://github.com/samadpls/'>
+<div align='center'>
+<img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
+</div></a>
 
 |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
 |---|---|---|
@@ -52,16 +46,9 @@
 
 
 ---
-<a href='https://github.com/samadpls/'>
-<div align='center'>
-<img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
-</div></a>
 
 [![samadpls's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samadpls&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/samadpls/Programming-Gifs)
 <div align='center'>
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
-
-
 
 ---
 <img src='.github/workflows/thanks.svg'/>
