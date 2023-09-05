@@ -21,7 +21,7 @@
 <a href='https://github.com/samadpls/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='samadpls/Programming-Gifs'></a>
 
-# <img src='.github/workflows/flyingcat.gif' height=65/>  About Me:
+# <img src='.github/workflows/cartoon1.gif' height=65/>  About Me:
 
   👋  Hey there, I'm Abdul Samad, a passionate software engineering student from UIT-NED. I'm on a journey to explore the realms of technology and innovation. As an aspiring machine learning enthusiast and professional backend developer, I'm always seeking ways to bridge the gap between software and human experiences.
 - 🌟 Machine Learning Enthusiast 🚀 | Backend Developer 💻 | Open Source Contributor 👨‍💻
@@ -30,7 +30,7 @@
 
 ------
 
-## <img src='.github/workflows/tech.gif' height=60/> Tech Stack:
+## <img src='.github/workflows/cartoon1.gif' height=60/> Tech Stack:
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,githubactions,bash,js,scala,fastapi,django,flask,selenium,html,css,bootstrap,linux,git,postman,mysql,qt,figma" />
 </div>
@@ -52,9 +52,6 @@
 
 [![samadpls's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samadpls&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/samadpls/Programming-Gifs)
 <div align='center'>
-
----
-<img src='.github/workflows/thanks.svg'/>
 
 
  
