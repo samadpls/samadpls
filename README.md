@@ -19,7 +19,7 @@
  
 
 <a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=70 height=140 alt='samadpls/Programming-Gifs'></a>
 
 # <img src='.github/workflows/cartoon1.gif' height=65/>  About Me:
 
