@@ -7,14 +7,14 @@
 
 <div align='center'>
 <a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C" alt="Typing SVG" />
-</a></div><br>
+</a></div><be>
 
- 
+---
 
 <a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=70 height=140 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://programming-gifs.cyclic.app' height=120 alt='samadpls/Programming-Gifs'></a>
 
-# <img src='.github/workflows/cartoon1.gif' height=45/>  About Me:
+## <img src='.github/workflows/cartoon1.gif' height=45/>  About Me:
 
   👋  Hey there, I'm Abdul Samad, a passionate software engineering student from UIT-NED. I'm on a journey to explore the realms of technology and innovation. As an aspiring machine learning enthusiast and professional backend developer, I'm always seeking ways to bridge the gap between software and human experiences.
 - 🌟 Machine Learning Enthusiast 🚀 | Backend Developer 💻 | Open Source Contributor 👨‍💻
