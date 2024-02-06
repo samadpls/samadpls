@@ -32,14 +32,6 @@
 
 <details>
   <summary> <img src='.github/workflows/cartoon1.gif' height=40/>  <h2>GitHub Stats</h2></summary>
-  <a href='https://github.com/samadpls/'>
-    <div align='center'>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake-dark.svg">
-        <img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake-dark.svg'/>
-      </picture>
-    </div>
-  </a>
 
   |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
   |---|---|---|
