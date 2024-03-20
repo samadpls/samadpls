@@ -6,7 +6,7 @@
 </p></a>-->
 
 <div align='center'>
-<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=AI/ML+%7C+Python+%7C+Backend-Developer+%7C" alt="Typing SVG" />
+<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=AI/ML+%7C+Python+%7C+Full-Stack%20+Developer+%7C" alt="Typing SVG" />
 </a></div><be>
 
 ## <img src='.github/workflows/cartoon1.gif' height=35/>  About Me:
