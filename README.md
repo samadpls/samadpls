@@ -5,7 +5,7 @@
 ## <img src='.github/workflows/cartoon1.gif' height=35/>  About Me:
 👋 Hi, I'm Abdul Samad, a software engineering student from [UIT-NED](https://uitu.edu.pk/). Passionate about technology and innovation, I've gained hands-on experience with `LLM` models and `machine learning` projects. With a keen interest in `computational neuroscience`, as well as an <ins>enthusiast for open-source</ins> development, I'm committed to bridging the gap between software and human experiences.
   
-- 🌟 Machine Learning Enthusiast | Full-Stack Developer
+- 🌟 Machine Learning Enthusiast | Software Engineer
 - 🌐 GSoC'24 Contributor [@INCF](https://github.com/incf) | LFX'23 Mentee [@Zowe](https://github.com/zowe)
 - 🛠️ Open Source Contributor | [Google Developer Student Club](https://github.com/DSC-UIT-khi)'23 Core Team Member
  <!---  <a href='https://github.com/samadpls/Programing-Gifs'>
