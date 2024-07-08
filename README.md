@@ -1,5 +1,5 @@
 <div align='center'>
-<a href="https://linkedin.com/in/samadpls/"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=AI/ML+%7C+Python+%7C+Software%20+Engineer+%7C" alt="Typing SVG" />
+<a href="https://linkedin.com/in/samadpls/"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFBF00&width=420&lines=AI/ML+%7C+Python+%7C+Software%20+Engineer+%7C" alt="Typing SVG" />
 </a></div><be>
 
 ## <img src='.github/workflows/cartoon1.gif' height=35/>  About Me:
