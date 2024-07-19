@@ -3,11 +3,12 @@
 </a></div><be>
 
 ## <img src='.github/workflows/cartoon1.gif' height=35/>  About Me:
-👋 Hi, I'm Abdul Samad, a software engineering student from [UIT-NED](https://uitu.edu.pk/). Passionate about technology and innovation, I've gained hands-on experience with `LLM` models and `machine learning` projects. With a keen interest in `computational neuroscience`, as well as an <ins>enthusiast for open-source</ins> development, I'm committed to bridging the gap between software and human experiences.
-  
-- 🌟 Machine Learning Enthusiast | Software Engineer
-- 🌐 GSoC'24 Contributor [@INCF](https://github.com/incf) | LFX'23 Mentee [@Zowe](https://github.com/zowe)
-- 🛠️ Open Source Contributor | [Google Developer Student Club](https://github.com/DSC-UIT-khi)'23 Core Team Member
+
+
+👋 Hi, I'm Abdul Samad an **AI Engineer** at a startup focusing on large language models and deep learning 🤖. Currently, I am a **Software Engineering student** at [NED University -UIT](https://uitu.edu.pk/), with over three years of open-source contributions 🌐. I have worked as a **Software Engineer intern** at **Google Summer of Code 2024** and the **Linux Foundation Mentorship Program 2023** 💻. Additionally, I was an active member of the **Google Developer Student Club** at my campus 🎓. 
+
+My passion for machine learning drives me to bridge the gap between technology and humanity through my contributions to the developer community 🌟.
+
  <!---  <a href='https://github.com/samadpls/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.cyclic.app' height=100 alt='samadpls/Programming-Gifs'></a>-->
 ------
