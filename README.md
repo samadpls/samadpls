@@ -5,7 +5,7 @@
 ## <img src='.github/workflows/cartoon1.gif' height=35/>  About Me:
 
 
-👋 Hi, I'm Abdul Samad an **AI Engineer** at a startup focusing on large language models and deep learning 🤖. Currently, I am a **Software Engineering student** at [NED University -UIT](https://uitu.edu.pk/), with over three years of open-source contributions 🌐. I have worked as a **Software Engineer intern** at **Google Summer of Code 2024** and the **Linux Foundation Mentorship Program 2023** 💻. Additionally, I was an active member of the **Google Developer Student Club** at my campus 🎓. 
+👋 Hi, I'm Abdul Samad an **AI Engineer** at a startup focusing on large language models and deep learning 🤖. I'm also a Software Engineering student at [NED University - UIT](https://uitu.edu.pk/), with over three years of open-source contributions. I have worked as a **Software Engineer intern** at **Google Summer of Code 2024** and the **Linux Foundation Mentorship Program 2023**. Additionally, I was an active member of the **Google Developer Student Club** at my campus. 
 
 My passion for machine learning drives me to bridge the gap between technology and humanity through my contributions to the developer community 🌟.
 
