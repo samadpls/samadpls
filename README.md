@@ -5,7 +5,7 @@
 ## <img src='.github/workflows/cartoon1.gif' height=35/>  About Me:
 
 <div align='center'>
-<p>I'm working as an <code><b>AI Engineer</b></code> at a startup, where I focus on LLMs and deep learning. I'm currently pursuing a degree in Software Engineering at <a href='https://uitu.edu.pk/'>NED University - UIT</a>, and I'm quite involved in open-source development. I've had internships as a <b>Software Engineer</b> at <ins>Google Summer of Code 2024</ins> and the <ins>Linux Foundation 2023</ins>. Additionally, I was a core team member of the Google Developer Student Club on campus.</p>
+<p>As an <code><b>AI Engineer</b></code> at a startup, I focus on LLMs and deep learning. Alongside this role, I am pursuing a degree in Software Engineering at <a href='https://uitu.edu.pk/'>NED University - UIT</a>. I am actively involved in open-source development and have had internships as a <b>Software Engineer</b> at <ins>Google Summer of Code 2024</ins> and the <ins>Linux Foundation 2023</ins>. Additionally, I was a core team member of the Google Developer Student Club on campus.</p>
 </div>
 
  <!---  <a href='https://github.com/samadpls/Programing-Gifs'>
