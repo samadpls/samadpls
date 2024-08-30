@@ -5,8 +5,10 @@
 ## <img src='.github/workflows/cartoon1.gif' height=35/>  About Me:
 
 <div align='center'>
-<p>As an <code><b>AI Engineer</b></code> at a startup, I focus on LLMs and deep learning. Alongside this role, I am pursuing a degree in Software Engineering at <a href='https://uitu.edu.pk/'>NED University - UIT</a>. I am actively involved in open-source development and have had internships as a <b>Software Engineer</b> at <ins>Google Summer of Code 2024</ins> and the <ins>Linux Foundation 2023</ins>. Additionally, I was a core team member of the Google Developer Student Club on campus.</p>
+<p>I'm an <code><b>AI Engineer</b></code> at a startup, working with LLMs and deep learning. I’m also studying Software Engineering at <a href='https://uitu.edu.pk/'>NED University - UIT</a>. My experience includes internships as a <b>Software Engineer</b> with <ins>Google Summer of Code 2024</ins> and the <ins>Linux Foundation 2023</ins>, and I was a core team member of the Google Developer Student Club. I’m also passionate about <b>computational neuroscience</b> and how it can help us understand the brain better.</p>
 </div>
+
+
 
  <!---  <a href='https://github.com/samadpls/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.cyclic.app' height=100 alt='samadpls/Programming-Gifs'></a>-->
