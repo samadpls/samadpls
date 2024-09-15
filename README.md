@@ -5,9 +5,8 @@
 ##### <img src='.github/workflows/cartoon1.gif' height=35/>  About Me:
 
 <div align='center'>
-<p>I'm an <code><b>AI Engineer</b></code>  at a startup working with cutting-edge tech (LLMs & deep learning). Studying Software Engineering at <a href='https://uitu.edu.pk/'>NED University - UIT</a>. I gained valuable experience working as a Software Engineer during internships with <ins>Google Summer of Code 2024</ins> and the <ins>Linux Foundation 2023</ins>.  Outside of work and studies, I'm fascinated by computational neuroscience and how it can help us unlock the mysteries of the brain!</p>
+<p>I'm an <code><b>AI Engineer</b></code> at a startup, specializing in <em>LLMs and deep learning</em>. Currently pursuing Software Engineering at <a href='https://uitu.edu.pk/'>NED University - UIT</a>, I've gained valuable experience as a Software Engineer through internships with <ins>Google Summer of Code 2024</ins> and the <ins>Linux Foundation 2023</ins>. Beyond my professional work, I'm fascinated by <em>computational neuroscience</em> and its potential to unravel the brain's complexities.</p>
 </div>
-
 
 
  <!---  <a href='https://github.com/samadpls/Programing-Gifs'>
@@ -15,5 +14,5 @@
 ------
 ##### <img src='.github/workflows/cartoon1.gif' height=30/> Tech Stack
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,docker,githubactions,bash,js,java,scala,fastapi,django,flask,spring,react,html,css,bootstrap,linux,git,postman,mysql,selenium,figma" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,aws,pytorch,tensorflow,docker,githubactions,bash,js,java,scala,fastapi,django,flask,spring,react,html,css,bootstrap,linux,git,postman,mysql,selenium,figma" />
   </div>
