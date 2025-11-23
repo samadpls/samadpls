@@ -9,12 +9,11 @@
 <p>I'm an <code><b>AI Engineer</b></code> at a startup, specializing in <em>LLMs and deep learning</em>. I hold a degree in Software Engineering from <a href='https://uitu.edu.pk/'>NED University - UIT</a>. I've gained valuable experience as a Software Engineer through internships with <ins>Google Summer of Code 2024</ins> and the <ins>Linux Foundation 2023</ins>. Beyond my professional work, I'm fascinated by <em>computational neuroscience</em> and its potential to unravel the brain's complexities.</p>
 </div>
 
-
-
  <!---  <a href='https://github.com/samadpls/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.cyclic.app' height=100 alt='samadpls/Programming-Gifs'></a>-->
 ------
 ##### <!---  <img src='.github/workflows/cartoon1.gif' height=150px /> --> Tech Stack
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=py,aws,kubernetes,docker,githubactions,bash,fastapi,django,flask,sklearn,tensorflow,js,java,scala,spring,react,html,css,bootstrap,linux,git,postman,mysql,selenium,figma" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,selenium,sklearn,tensorflow,java,scala,spring,mysql,postman,html,css,js,bootstrap,react,figma,linux,bash,git,githubactions,kubernetes,docker,aws" />
   </div>
+
